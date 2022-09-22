@@ -1,0 +1,12 @@
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\WcfDemoCRUD.dll.config
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\WcfDemoCRUD.dll
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\WcfDemoCRUD.pdb
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\EntityFramework.dll
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\EntityFramework.SqlServer.dll
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\EntityFramework.xml
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\bin\EntityFramework.SqlServer.xml
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\obj\Debug\WcfDemoCRUD.csproj.AssemblyReference.cache
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\obj\Debug\WcfDemoCRUD.csproj.CoreCompileInputs.cache
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\obj\Debug\WcfDemoCRUD.csproj.CopyComplete
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\obj\Debug\WcfDemoCRUD.dll
+Z:\WPF\WcfDemoCRUD\WcfDemoCRUD\obj\Debug\WcfDemoCRUD.pdb
